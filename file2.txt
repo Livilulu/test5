@@ -1,1 +1,7 @@
 fine5
+
+name = input()
+print('Привет,', name)
+
+name=input()
+print(name, '- чемпион!', )
